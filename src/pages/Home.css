@@ -1,0 +1,64 @@
+.home-page {
+
+    min-height: 85vh;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: center;
+
+    align-items: center;
+
+    text-align: center;
+
+    color: white;
+
+    padding: 40px;
+}
+
+.home-page h1 {
+
+    font-size: 72px;
+
+    margin-bottom: 25px;
+}
+
+.home-page p {
+
+    font-size: 30px;
+
+    max-width: 900px;
+
+    line-height: 1.6;
+
+    margin-bottom: 50px;
+}
+
+.generate-btn {
+
+    padding: 22px 50px;
+
+    border: none;
+
+    border-radius: 12px;
+
+    background-color: #2563eb;
+
+    color: white;
+
+    font-size: 28px;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+    transition: 0.3s;
+}
+
+.generate-btn:hover {
+
+    background-color: #1d4ed8;
+
+    transform: scale(1.05);
+}
