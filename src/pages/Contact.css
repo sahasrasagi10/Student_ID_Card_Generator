@@ -1,0 +1,32 @@
+.contact {
+    background-color: white;
+    color: black;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.contact h1 {
+    text-align: center;
+    color: #5c7cba;
+    margin-bottom: 25px;
+}
+
+.contact h3 {
+    color: #5c7cba;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.contact p {
+    line-height: 1.8;
+    margin-bottom: 10px;
+}
+
+.contact-list {
+    text-align: center;
+    margin-left: 30px;
+    line-height: 1.8;
+}
